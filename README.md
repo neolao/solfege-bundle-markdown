@@ -1,4 +1,4 @@
-solfege-bundle-markdow
-======================
+solfege-bundle-markdown
+=======================
 
-Markdown engins for SolfegeJS
+Markdown engine for SolfegeJS
